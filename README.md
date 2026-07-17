@@ -10,11 +10,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ### Sorting Algorithms
 - [Bubble Sort](Sorting/bubble_sort.py)
 - [Selection Sort](Sorting/selection_sort.py)
+- [Insertion Sort](Sorting/insertion_sort.py)
 
 ## 🛠️ Tech Stack
 - Language: Python 3
 
 ## 👤 Author
 **Kishore Reddy Gayam**
-- B.Tech CSE (AI/ML), Marwadi University
-- GitHub: [@kishorereddycse860-hub](https://github.com/kishorereddycse860-hub)
+- 🎓 B.Tech CSE (AI/ML), Marwadi University
+- 💻 GitHub: [@kishorereddycse860-hub](https://github.com/kishorereddycse860-hub)
+- 🔗 LinkedIn: [Kishore Reddy Gayam](http://www.linkedin.com/in/kishore-reddy-gayam-867254316)

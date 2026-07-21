@@ -10,4 +10,4 @@ for i in range(a):
             temp = nums[j]
             nums[j] = nums[j + 1]
             nums[j + 1] = temp
-print(nums
+print(nums)

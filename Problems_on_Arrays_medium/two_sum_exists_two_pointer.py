@@ -29,7 +29,8 @@ nums = []
 for _ in range(n):
     nums.append(int(input("Enter the elements to add into array: ")))
 target = int(input("Enter the target value: "))
-nums.sort() left = 0
+nums.sort()
+nums.left = 0
 right = n - 1
 found = False
 while left < right:
